@@ -1,0 +1,7 @@
+Name: Prymak Ilya
+Age: 17
+Place: Hrodno
+Studied: ItStep frontend 1 year courses
+Programming languages: c++, c#, python
+Languages: Russian(native), English(school++)
+Skills: communicative, creative person
