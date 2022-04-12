@@ -1,0 +1,25 @@
+Sklyar Mikhail
+C++ developer
+Experience:
+Personal project(Not commercial)
+Tools:Microsoft Visual Studio, Clion.
+Education:
+Software engineer
+GrSU.Faculty of Mathematics and Computer Science
+Faculty of Mathematics and Computer Science
+Information Technology Software
+Professional skills:
+Languages & frameworks:
+-C++
+-C#
+Languages:
+-Russian(Native)
+-English(Pre-intermediate level)
+Interested in:
+-Game development
+-.Net
+-Tools development
+Additional info:
+-Like to work with game logic and mechanics
+Hobbies:
+Board games, self-improvment
