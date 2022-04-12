@@ -10,7 +10,7 @@ Faculty of Mathematics and Computer Science
 Information Technology Software
 Professional skills:
 Languages & frameworks:
--C++
+-C++/
 -C#
 Languages:
 -Russian(Native)
